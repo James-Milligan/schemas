@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/james-milligan/schemas/compare/json/json-schema-v0.1.4...json/json-schema-v0.1.5) (2023-01-31)
+
+
+### Features
+
+* demo ([3c9b33c](https://github.com/james-milligan/schemas/commit/3c9b33cf0d01ccc8334eea7154e5ab52c1e8b186))
+
 ## [0.1.4](https://github.com/james-milligan/schemas/compare/json/json-schema-v0.1.3...json/json-schema-v0.1.4) (2023-01-31)
 
 
