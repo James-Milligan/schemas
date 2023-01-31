@@ -57,7 +57,7 @@ jobs:
           ref: ${{ needs.release-please.outputs.json_release_tag }}
       - uses: JasonEtco/create-an-issue@v2
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TEST_TOKEN }}
           TAG: ${{ needs.release-please.outputs.json_release_tag }}
         with:
           filename: .github/schema-store-issue-template.md
