@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.10](https://github.com/james-milligan/schemas/compare/protobuf-v0.2.9...protobuf-v0.2.10) (2023-02-21)
+
+
+### Features
+
+* Introduce service definition for GRPC sync contract ([#78](https://github.com/james-milligan/schemas/issues/78)) ([2ba81e3](https://github.com/james-milligan/schemas/commit/2ba81e3580a3944b837fe63482993d31b02dd9c0))
+
 ## [0.2.9](https://github.com/open-feature/schemas/compare/protobuf-v0.2.8...protobuf-v0.2.9) (2023-02-07)
 
 
